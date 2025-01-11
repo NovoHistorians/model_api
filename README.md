@@ -1,3 +1,5 @@
 # model_api
-![SOME USE CASE TESTING OF THE MODEL ](relative/path/to/screenshot.png)
-
+![SOME USE CASE TESTING OF THE MODEL ](test1.jpg)
+![SOME USE CASE TESTING OF THE MODEL ](test2.jpg)
+![SOME USE CASE TESTING OF THE MODEL ](test3.jpg)
+![SOME USE CASE TESTING OF THE MODEL ](test4.jpg)
